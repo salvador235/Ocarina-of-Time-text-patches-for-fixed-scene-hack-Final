@@ -176,7 +176,7 @@ Dodongo's Cavern with loaded Hookshot Targets in room 1. I did move the Targets 
 0x1F44055,1C
 0x1F89054,011C
 
-(Fanmade) Dodongo's Cavern Don't change this actor behind the pushblock. It was originally a heart but for some reason, I changed it to a blue rupee
+(Fanmade) Dodongo's Cavern Don't change this actor behind the pushblock. It was originally a heart but for some reason, I changed it to a blue rupee in room 10
 0x1F8913F,01
 
 Dodongo's Cavern with loaded Hookshot Targets. (continued) And replaced the gold skulltula token object 15C with 12B/2B so that 1 grass clump loads in room 12. The 15C object is not needed here as it only makes Gold Skulltula Token's shinier. I couldn't add an object in this room unfortunately as there was not enough space.
