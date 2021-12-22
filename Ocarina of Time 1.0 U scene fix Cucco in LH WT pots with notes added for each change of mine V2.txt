@@ -1,10 +1,10 @@
 Recieving Quiver 50 Icon Fix
 0x092FECE,4C
 
-Making Boy the Color Red in Link's House Intro Cutscene
+Making Boy in text the Color Red in Link's House Intro Cutscene. This is text id 109F
 0x0940DEB,054120626F79
 
-Kakariko NPC Text spacing fix
+Kakariko NPC Text spacing fix for blue shirt guy
 0x095651D,7468652067726176656B65
 0x0956529,7065722073696E6B696E6720696E746F016869732067726176652E204974206C6F
 0x095654B,6B6564206C696B652068652077617301686F6C64696E6720736F6D65206B696E64206F6620054174726561737572650540210200
@@ -234,7 +234,7 @@ Graveyard Transitions Fixed for CS 00 and 01
 0x202C936,11A1
 0x202C946,21
 
-Graveyard, Skulltulas and Keeses loaded in room 2 (Had to replace the useless object 90 with 24 for Skulltula)
+Graveyard, Skulltulas and Keeses loaded in room 2 in the normal areas for Adult Link (Had to replace the useless object 90 with 24 for Skulltula)
 0x202F389,0E
 0x202F3A9,24
 0x202F3BB,0D
@@ -833,7 +833,7 @@ Royal Family's Tomb CS 00 or Stage 1 and CS 01 or Stage 2's Royal Family Tomb Do
 (Fanmade) Talon's House Changed the scene setting from 02 to 03 or from Field to Dungeon to make the doors the dungeon ones because the Lon Lon Ranch door was that door skin too. Only use with that one.
 0x335E037,03
 
-(Fanmade) Talon's House Added Malon object and actor by shifting the scene in room 3 which is the area Ingo sleeps when you are an Adult.
+(Fanmade) Talon's House Added Young Malon object and actor by shifting the scene in room 3 which is the area Ingo sleeps when you are an Adult. Young Malon only appears here as a child at night after you give the chicken to wake Talon up in Hyrule Castle. She has unused coding to do so. Atm, with these hex address changes, you can only see Young Malon here at night through the Map Select or by cheating since the door can't be opened at night to go into Talon's House.
 0x337A029,03
 0x337A031,06
 0x337A037,46
